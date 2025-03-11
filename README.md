@@ -1,4 +1,4 @@
-# Simple Lotak Voltarre Monte Carlo Simulation
+# Simple Lotka Volterra Monte Carlo Simulation
 Why:
 1. Monte Carlo was easy to Vecotrize (really were benchmarking the compilers?).
 2. LV was some actual work to do (note the actual implementation might not be correct, but it is doing work).
