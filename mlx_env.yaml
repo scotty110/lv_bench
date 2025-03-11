@@ -1,0 +1,9 @@
+name: mlx_beanch 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13  
+  - pip
+  - numpy
+  - pip:
+    - mlx
